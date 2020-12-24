@@ -1,0 +1,17 @@
+Application de simulation de remplissage d'un paquebot par des conteneurs en fonction d'informations sur le porte-conteneurs.
+
+
+
+COMPILATION ET GENERATION DE LA DOCUMENTATION:
+	Dans un terminal, executez:
+	./genProject.sh
+
+LANCEMENT DE L'APPLICATION:
+	Dans le répertoire "bin", executez:
+	./TIPE
+
+
+DOCUMENTATION:
+	Dans le dossier "doc":
+	Deux dossiers "html" et "latex" sont créés lors de la génération. Dans le dossier "html", ouvrir "index.html" qui ouvre la documentation du code dans un navigateur internet
+
